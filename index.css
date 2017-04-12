@@ -73,6 +73,11 @@
 	padding-left: 320px;
 	margin-bottom: -80px;
 }
+.wrappers {
+	width: 960px;
+	margin: 0 auto;
+	overflow: hidden;
+}
 .slider_text { 
 	text-align: center;
 }	
@@ -129,7 +134,7 @@
 	float: left;
 	box-sizing: border-box;
 	padding-top: 20px;
-	padding-left: 150px;
+	padding-left: 100px;
 }
 .f2{
 	width: 50%;
@@ -139,7 +144,7 @@
 }
 .f2 ul{
 	list-style: none;
-	padding-right: 180px;
+	padding-right: 100px;
 }
 .f2 ul li{
 	display: inline-block;
