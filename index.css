@@ -74,8 +74,7 @@
 	margin-bottom: -80px;
 }
 .slider_text { 
-	width:960px;
-	text-align: center;
+	text-align: justify;
 }	
 #button_send{
 	width: 200px;
