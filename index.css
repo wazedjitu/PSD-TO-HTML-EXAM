@@ -74,6 +74,7 @@
 	margin-bottom: -80px;
 }
 .slider_text { 
+	width:960px;
 	text-align: center;
 }	
 #button_send{
